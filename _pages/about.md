@@ -13,15 +13,6 @@ redirect_from:
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
-<div style="background:#f0f2f5; padding:10px 15px; border-radius:8px; margin-bottom:30px; position:sticky; top:0; z-index:999;">
-  <a href="#about-me" style="margin:0 10px; color:#4A708B; text-decoration:none; font-weight:500;">个人简介</a>
-  <a href="#research-field" style="margin:0 10px; color:#4A708B; text-decoration:none; font-weight:500;">研究领域</a>
-  <a href="#publications" style="margin:0 10px; color:#4A708B; text-decoration:none; font-weight:500;">代表性论文</a>
-  <a href="#achievements" style="margin:0 10px; color:#4A708B; text-decoration:none; font-weight:500;">成果展示</a>
-  <a href="#projects" style="margin:0 10px; color:#4A708B; text-decoration:none; font-weight:500;">科研项目</a>
-  <a href="#international-coop" style="margin:0 10px; color:#4A708B; text-decoration:none; font-weight:500;">国际合作</a>
-  <a href="#contact" style="margin:0 10px; color:#4A708B; text-decoration:none; font-weight:500;">联系方式</a>
 </div>
 
 <span class='anchor' id='about-me'></span>
@@ -81,7 +72,6 @@ redirect_from:
 <span class='anchor' id='achievements'></span>
 # 🙋‍♂️ <font color="#4A708B">成果展示</font>
 ## 1. 无人系统自主规划、决策与控制
-
 ### 欠驱动无人艇控制
 针对浮标型无人艇定点控位问题，考虑以环境干扰横向作用力作为非受控横荡无人艇动力学外部输入，围绕基于环境最优艏向定点控位控制策略展开深入研究，并通过某型无人艇进行海试实验，结果表明控制精度和系统能耗均得到较大幅度优化。
 <div style="margin:15px 0; padding:10px; background:#f8f9fa; border-radius:8px;">
