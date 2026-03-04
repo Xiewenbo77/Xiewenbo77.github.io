@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "谢文博-上海大学"
 author_profile: true
 redirect_from: 
   - /about/
@@ -16,17 +16,23 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 🙋‍♂️ <font color="#4A708B">个人简介</font>
-李政霖，博士，副教授，博士生导师。本硕毕业于大连理工大学，博士毕业于英国谢菲尔德大学。上海市海外高层次人才，主持国家自然科学基金青年、启明星培育等多项纵向课题、以第一及通讯作者在重要学术期刊和国际会议上发表多篇论文，其中包括 IEEE Trans. on Industrial Informatics，IEEE Trans. on Intelligent Transportation Systems，IJCAI等。中国人工智能学会智能机器人专委会委员、Cyborg and Bionic Systems期刊（IF 10.5）青年编委。
+# 🙋‍♂️ <font color="#2F4F4F">个人简介</font>
+谢文博，教授，博士 / 硕士生导师，任职于上海大学机电工程与自动化学院 / 无人艇工程研究院。上海市海外高层次人才相关领域研究骨干，长期从事无人系统智能控制与自主航行相关研究，担任团队无人系统研究领域主要负责人。主持军委科技委 GF 项目、国家自然科学基金面上 / 青年项目、黑龙江省优秀青年科学基金、中国博士后基金面上项目等10 余项纵向 / 横向课题，科研经费累计超千万元；作为骨干成员参与国家重大科技专项、工信部高科技船舶科研项目等，总经费达 1.28 亿元。已发表学术论文 60 余篇，其中 SCI 源期刊论文 30 余篇（第一 / 通讯作者 20 余篇），ESI 高被引论文 2 篇，入选IEEE Transactions on Fuzzy Systems“Most Popular Paper” 1 篇；授权国家发明专利 20 余项。
+现任IEEE Power & Energy Society 智能电网与新技术委员会（中国）常务理事，中国指挥与控制学会智能控制与系统专委会、大模型与决策智能专业委员会委员，中国造船工程学会（水面无人装备专委会）高级会员，中国人工智能学会会员，IEEE Control Systems Society/IEEE Information Electronics Society 会员，《中国舰船研究》青年编委。曾赴澳大利亚阿德莱德大学开展博士后访学研究，与澳大利亚、英国、法国、巴西等多国高校知名学者保持紧密国际合作。
 
 <span class='anchor' id='pub'></span>
 
-# 📝 <font color="#4A708B">主要研究领域</font>
+# 📝 <font color="#2F4F4F">主要研究领域</font>
+1.	无人系统自主规划、决策与控制：针对无人艇、无人气垫船、无人跨域航行器等海空无人设备的路径规划、避障、航行控制、靠离泊控制、动力定位控制、自主决策等自主智能方面进行研究；
+2.	海空跨域无人集群：针对无人机、无人艇等各类无人系统构成的异构无人集群协同目标跟踪、规划、避障、编队、决策、博弈与控制领域，多无人艇对接、多无人拖轮协同作业等集群智能方面进行研究；
+3.	无人系统端到端自主航行：针对自动驾驶、无人艇、无人机等各类无人系统，搭建“感知-规划”/“感知-控制”端到端系统，开展智能生成、深度学习和强化学习相关算法研究；
+4.	海空跨域仿真系统：针对各类海空无人装备的具体应用场景，搭建用于无人系统训练和学习的仿真系统，从事强化学习、深度学习、虚实迁移等方面的研究；
+5.	智能控制理论：针对T-S/多项式模糊系统，海上廊桥自稳系统，卫星低重力地面模拟系统等各类复杂非线性系统的控制方法进行研究。
 
-## 1. **自动驾驶/机器人感知及端到端系统**：包括多传感器融合感知、协同感知、端到端自动驾驶、占用网格估计、水面无人艇感知等；
+## 1. **无人系统自主规划、决策与控制
 
-### 视觉-毫米波雷达水面融合感知
-
+### 欠驱动无人艇控制
+针对浮标型无人艇定点控位问题，考虑以环境干扰横向作用力作为非受控横荡无人艇动力学外部输入，围绕基于环境最优艏向定点控位控制策略展开深入研究，并通过某型无人艇进行海试实验，结果表明控制精度和系统能耗均得到较大幅度优化。
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/img1.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 *Target Detection for USVs by Radar-vision Fusion with Swag-robust Distance-aware Probabilistic Multi-modal Data Association，IEEE Sensors Journal，2024*
