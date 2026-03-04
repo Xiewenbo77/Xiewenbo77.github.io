@@ -34,22 +34,39 @@ redirect_from:
 在国内外学术期刊发表论文60余篇，包括SCI源期刊论文30余篇，ESI高被引论文2篇，授权国家发明专利20余项。近五年代表性成果有：
 ## 代表性论文
 [1]	Wen-Bo Xie*, Yong-Qi Wu, Shi-Qi Zheng, Yu-Long Wang. Asynchronous membership functions decoupling based event-triggered fuzzy networked control for nonlinear systems. Fuzzy Sets and Systems, 2025, DOI: 10.1016/j.fss.2025. 109377.
+
 [2]	Guan-Qun Chen, Wen-Bo Xie*, Dong Qu, Yan Peng. Prescribed performance observer-controller design for MIMO nonlinear systems with unknown control directions. ISA Transactions, 2025.
+
 [3]	Wen-Bo Xie*, Jie Yang, Anh-Tu Nguyen, Zhan-Xiang Cao. Piecewise reconstruction of membership function approximation errors for Takagi-Sugeno fuzzy control. Engineering Applications of Artificial Intelligence, 2024, 129: 107646.
+
 [4]	Dong Qu, Wen-Bo Xie*, Bing Yang, Yan Peng. Integral barrier Lyapunov functions based sliding mode observer-controller for nonlinear systems with performance constraints. International Journal of Robust and Nonlinear Control. 2024, 34(5): 3393-3407.
+
 [5]	Hua Zheng, Wen-Bo Xie*, Ahn-Tu Nguyen, Dong Qu. A model reconstruction approach for control synthesis of Takagi-Sugeno fuzzy systems. Fuzzy Sets and Systems, 2023, 469: 108640.
+
 [6]	Ming-Yang Li, Long-Tao Liu, Wen-Bo Xie*, Ji-Tao Li. Collision avoidance fault-tolerant control for dynamic positioning vessels under thruster faults. Ocean Engineering, 2023, 286: 115458. 
+
 [7]	Hai-Bin Wang*, Wen-Bo Xie*, Peng Wang, Yuan-Hui Wang, Shuzhi Sam Ge. Prescribed performance control for dynamic positioning vessels with a dynamic event-triggered mechanism. Ocean Engineering, 2023, 281: 114878. 
+
 [8]	Wen-Bo Xie, Hua Zheng, Ming-Yang Li*, Choon-Ki Ahn*. Membership functions dependent local linear controller design for T-S fuzzy systems. IEEE Transactions on Systems, Man and Cybernetics: Systems, 2022, 52(2): 814-821. 
+
 [9]	Wen-Bo Xie, Jian Zhang*, Yi-fan Li, Reinaldo M Palhares. A novel polynomial membership functions based control method for T-S fuzzy systems. ISA Transactions, 2022, 129(B): 192-203. 
+
 [10] Wen-Bo Xie*, Bo-Lin Xu, Chen Peng, Jian Zhang. Nonuniform piecewise membership function approximation methods based robust tracking control design of T-S fuzzy systems. International Journal of Robust and Nonlinear Control, 2022, 32: 4980-5001. 
+
 [11]	Ming-Yang Li, Wen-Bo Xie*, Yu-Long Wang, Xin Hu. Prescribed performance trajectory tracking fault-tolerant control for dynamic positioning vessels under velocity constraints. Applied Mathematics and Computation, 2022, 431: 127348. 
+
 [12]	Wen-Bo Xie*, Bing Liu, Lin-Wei Bu, Yu-Long Wang, Jian Zhang. A decoupling approach for observer-based controller design of T-S fuzzy system with unknown premise variables. IEEE Transactions on Fuzzy Systems, 2021, 29(9): 2714-2725. 
+
 [13]	Wen-Bo Xie*, Ming-Hao Guo, Bo-Lin Xu, Xin Wang. Fault tolerant robust control with transients for over-actuated nonlinear systems. Nonlinear Dynamics, 2021, 104(3): 2433-2450. 
+
 [14]	Jian Zhang, Wen-Jie Wu, Wen-Bo Xie*, Chen Peng. Dimensional-varying integral sliding mode controller design for uncertain T-S fuzzy systems. Information Sciences, 2021,565: 77-90. 
+
 [15]	Wen-Bo Xie*, Song Sang, Hak-Keung Lam, Jian Zhang. A polynomial-membership-function approach for stability analysis of fuzzy systems. IEEE Transactions on Fuzzy Systems, 2020, 29(8): 2077-2087. 
+
 [16]	He Li, Wen-Bo Xie*, Hak-Keung Lam, Jian Zhang. Membership function derivatives transformation approach for stability analysis of T-S fuzzy systems. IEEE Transactions on Cybernetics, 2020, 52(8): 7906-7912. （中科院TOP期刊）
+
 [17]	Hua Zheng, Wen-Bo Xie*, Hak-Keung Lam, Li-Kui Wang. Membership functions dependent stability analysis and local controller design for T-S fuzzy systems: a space enveloping approach. Information Sciences, 2020, 548: 233-253. （中科院TOP期刊）
+
 ☆更多论文列表：https://www.researchgate.net/profile/Wenbo-Xie-3
 
 # 🙋‍♂️ <font color="#4A708B">成果展示</font>
