@@ -40,10 +40,16 @@ redirect_from:
 <img src="images/research1-1.png" alt="欠驱动无人艇定点控位" style="width:49%; height:auto; border-radius:4px;">
 <img src="images/research1-2.png" alt="动力定位控制系统" style="width:49%; height:auto; border-radius:4px;">
 </div>
-<p style="font-size:14px; color:#666; text-align:center; margin:5px 0 0;">欠驱动无人艇最优艏向控制策略海试航迹对比</p>
+<p style="font-size:14px; color:#666; text-align:center; margin:5px 0 0;">欠驱动无人艇最优艏向控制策略</p>
 </div>
 
-### 还恐吓跨域无人集群智能
+### 无人气垫船
+针对无人气垫船的垫升系统和智能自主航行控制系统进行探究，并结合旋翼无人机的构型，搭建了旋翼机-气垫船一体化无人系统，为海空跨域无人集群的发展增加了重要的一类设备。
+<div style="margin:10px 0; padding:8px; background:#f8f9fa; border-radius:6px;">
+<img src="images/research1-3.png" alt="旋翼机-气垫船无人系统1" style="width:100%; height:auto; border-radius:4px;">
+<img src="images/research1-4.jpg" alt="旋翼机-气垫船无人系统2" style="width:100%; height:auto; border-radius:4px;">
+<p style="font-size:14px; color:#666; text-align:center; margin:5px 0 0;">旋翼机-气垫船无人系统</p>
+</div>
 
 ### 视觉-毫米波雷达融合感知
 
