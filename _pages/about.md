@@ -159,7 +159,7 @@ redirect_from:
 
 <span class='anchor' id='projects'></span>
 
-# <font color="#4A708B">科研项目</font>
+#  <font color="#4A708B">科研项目</font>
 
 ## 主持与在研项目
 1.	军委科技委“XXXXXX”项目子课题，水面环境信息与航行模型构建技术研究，负责人，1287万元，2024.11-2025.09
@@ -192,6 +192,8 @@ redirect_from:
 
 澳大利亚阿德莱德大学博士后访学（2015-2016）。
 
+
+<span class='anchor' id='connections'></span>
 
 #  <font color="#4A708B">联系方式</font>
 
