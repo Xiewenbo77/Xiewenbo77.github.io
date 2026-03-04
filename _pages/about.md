@@ -193,8 +193,8 @@ redirect_from:
 澳大利亚阿德莱德大学博士后访学（2015-2016）。
 
 
-<span class='anchor' id='connections'></span>
 
+<span class='anchor' id='connections'></span>
 #  <font color="#4A708B">联系方式</font>
 
 - **邮箱**：[xiewenbo@shu.edu.cn](mailto:xiewenbo@shu.edu.cn)
