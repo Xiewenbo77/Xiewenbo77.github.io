@@ -16,29 +16,25 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# 🙋‍♂️ <font color="#4A708B">个人简介</font>
+#  <font color="#4A708B">个人简介</font>
 谢文博，上海大学机自学院研究员，博士/硕士生导师。
 
 从事无人系统自主规划、决策与控制，端到端自主航行，智能控制理论等方面的研究，担任团队无人系统研究领域主要负责人。主持军委科技委GF××项目、1××，国家自然科学基金面上/青年项目，黑龙江省优秀青年科学基金，中国博士后基金面上项目等多项纵向课题。已发表学术论文60余篇，包括SCI源期刊论文30余篇，其中第一/通讯作者SCI论文20余篇，ESI高被引论文2篇，入选IEEE Transactions on Fuzzy Systems期刊 “Most Popular Paper”论文1篇，并授权发明专利20余项。现担任IEEE Power & Energy Society智能电网与新技术委员会（中国）常务理事，中国指挥与控制学会智能控制与系统专委会委员、大模型与决策智能专业委员会委员，中国造船工程学会（水面无人装备专委会）高级会员，中国人工智能学会会员，IEEE Control Systems Society和IEEE Information Electronics Society会员, 《中国舰船研究》青年编委。
 
-
+</div>
 <span class='anchor' id='research-field'></span>
 
-# 📝 <font color="#4A708B">主要研究领域</font>
+#  <font color="#4A708B">主要研究领域</font>
 1.	无人系统自主规划、决策与控制：针对无人艇、无人气垫船、无人跨域航行器等海空无人设备的路径规划、避障、航行控制、靠离泊控制、动力定位控制、自主决策等自主智能方面进行研究；
 2.	海空跨域无人集群：针对无人机、无人艇等各类无人系统构成的异构无人集群协同目标跟踪、规划、避障、编队、决策、博弈与控制领域，多无人艇对接、多无人拖轮协同作业等集群智能方面进行研究；
 3.	无人系统端到端自主航行：针对自动驾驶、无人艇、无人机等各类无人系统，搭建“感知-规划”/“感知-控制”端到端系统，开展智能生成、深度学习和强化学习相关算法研究；
 4.	海空跨域仿真系统：针对各类海空无人装备的具体应用场景，搭建用于无人系统训练和学习的仿真系统，从事强化学习、深度学习、虚实迁移等方面的研究；
 5.	智能控制理论：针对T-S/多项式模糊系统，海上廊桥自稳系统，卫星低重力地面模拟系统等各类复杂非线性系统的控制方法进行研究。
 
-
-
-
-
 <span class='anchor' id='publications'></span>
 
 
-# 📝 <font color="#4A708B">代表性论文</font>
+#  <font color="#4A708B">代表性论文</font>
 在国内外学术期刊发表论文60余篇，包括SCI源期刊论文30余篇，ESI高被引论文2篇，授权国家发明专利20余项。近五年代表性成果有：
 
 [1]	Wen-Bo Xie*, Yong-Qi Wu, Shi-Qi Zheng, Yu-Long Wang. Asynchronous membership functions decoupling based event-triggered fuzzy networked control for nonlinear systems. Fuzzy Sets and Systems, 2025, DOI: 10.1016/j.fss.2025. 109377.
@@ -80,7 +76,7 @@ redirect_from:
 
 <span class='anchor' id='achievements'></span>
 
-# 🙋‍♂️ <font color="#4A708B">成果展示</font>
+#  <font color="#4A708B">成果展示</font>
 ## 1. 无人系统自主规划、决策与控制
 ### 欠驱动无人艇控制
 针对浮标型无人艇定点控位问题，考虑以环境干扰横向作用力作为非受控横荡无人艇动力学外部输入，围绕基于环境最优艏向定点控位控制策略展开深入研究，并通过某型无人艇进行海试实验，结果表明控制精度和系统能耗均得到较大幅度优化。
@@ -163,7 +159,7 @@ redirect_from:
 
 <span class='anchor' id='projects'></span>
 
-# 📝 <font color="#4A708B">科研项目</font>
+#  <font color="#4A708B">科研项目</font>
 
 ## 主持与在研项目
 1.	军委科技委“XXXXXX”项目子课题，水面环境信息与航行模型构建技术研究，负责人，1287万元，2024.11-2025.09
@@ -191,7 +187,7 @@ redirect_from:
 
 <span class='anchor' id='international-coop'></span>
 
-# 📝 <font color="#4A708B">国际合作</font>
+#  <font color="#4A708B">国际合作</font>
 与澳大利亚阿德莱德大学、英国国王学院、法国上法兰西大区理工学校、巴西米纳斯联邦大学等多个高校的知名学者保持紧密合作;
 
 澳大利亚阿德莱德大学博士后访学（2015-2016）。
