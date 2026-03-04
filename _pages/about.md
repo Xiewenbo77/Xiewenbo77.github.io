@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "谢文博-上海大学"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
@@ -13,7 +13,6 @@ redirect_from:
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-
 
 <span class='anchor' id='about-me'></span>
 
@@ -33,7 +32,11 @@ redirect_from:
 5.	智能控制理论：针对T-S/多项式模糊系统，海上廊桥自稳系统，卫星低重力地面模拟系统等各类复杂非线性系统的控制方法进行研究。
 
 
+
+
+
 <span class='anchor' id='publications'></span>
+
 
 # 📝 <font color="#4A708B">代表性论文</font>
 在国内外学术期刊发表论文60余篇，包括SCI源期刊论文30余篇，ESI高被引论文2篇，授权国家发明专利20余项。近五年代表性成果有：
@@ -154,9 +157,8 @@ redirect_from:
 <img src="images/research3-4.png" alt="海上运转廊桥1" style="width:49%; height:auto; border-radius:4px;">
 <img src="images/research3-5.png" alt="海上运转廊桥2" style="width:49%; height:auto; border-radius:4px;">
 <p style="font-size:14px; color:#666; text-align:center; margin:5px 0 0;">海上运转廊桥</p>
-</div>
 
-<span class='anchor' id='project'></span>
+
 
 <span class='anchor' id='projects'></span>
 
