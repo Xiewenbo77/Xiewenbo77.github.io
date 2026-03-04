@@ -90,7 +90,7 @@ redirect_from:
 ### 感知-规划-控制端到端方法
 针对感知-规划研究端到端设计方法，以保证无人系统能够在感知和决策层面获得全局最优解；同时对规划-控制研究端到端设计方法，保证规划层面能充分考虑无人平台动力学特性。
 <div style="margin:10px 0; padding:8px; background:#f8f9fa; border-radius:6px;">
-<img src="images/research3-1.png" alt="视觉感知-规划端到端在虚拟环境下的自主驾驶案例"style="width:100%; height:auto; border-radius:4px;">
+<img src="images/research3-1.png" alt="视觉感知-规划端到端在虚拟环境下的自主驾驶案例" style="width:49%; height:auto; border-radius:4px;">
 
 <p style="font-size:14px; color:#666; text-align:center; margin:5px 0 0;">视觉感知-规划端到端在虚拟环境下的自主驾驶案例</p>
 </div>
