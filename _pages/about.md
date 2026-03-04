@@ -30,8 +30,8 @@ redirect_from:
 4.	海空跨域仿真系统：针对各类海空无人装备的具体应用场景，搭建用于无人系统训练和学习的仿真系统，从事强化学习、深度学习、虚实迁移等方面的研究；
 5.	智能控制理论：针对T-S/多项式模糊系统，海上廊桥自稳系统，卫星低重力地面模拟系统等各类复杂非线性系统的控制方法进行研究。
 
-🙋‍♂️ <font color="#2F4F4F">成果展示</font>
-## 1. **无人系统自主规划、决策与控制
+#🙋‍♂️ <font color="#2F4F4F">成果展示</font>
+## 1. 无人系统自主规划、决策与控制
 
 ### 欠驱动无人艇控制
 针对浮标型无人艇定点控位问题，考虑以环境干扰横向作用力作为非受控横荡无人艇动力学外部输入，围绕基于环境最优艏向定点控位控制策略展开深入研究，并通过某型无人艇进行海试实验，结果表明控制精度和系统能耗均得到较大幅度优化。
@@ -54,15 +54,17 @@ redirect_from:
 ### 动力定位控制系统
 针对复杂海况下的船舶动力定位作业任务，考虑推进器推力受限和各类故障，研究船舶低频运动状态观测、高精度定位、循迹跟踪作业、喷泵无人艇自主靠离泊等功能，在进行实船实验过程中，与Kongsberg公司产品进行传感器完全失效时的短时（5分钟）定位控制实验，漂移距离明显降低，控制精度得到大幅提高。
 <div style="margin:10px 0; padding:8px; background:#f8f9fa; border-radius:6px;">
-<img src="images/research1-5.png" alt="动力定位船舶与控制系统1" style="width:100%; height:auto; border-radius:4px;">
-<img src="images/research1-6.png" alt="动力定位船舶与控制系统2" style="width:100%; height:auto; border-radius:4px;">
+<img src="images/research1-5.png" alt="动力定位船舶与控制系统1" style="width:49%; height:auto; border-radius:4px;">
+<img src="images/research1-6.png" alt="动力定位船舶与控制系统2" style="width:49%; height:auto; border-radius:4px;">
 <p style="font-size:14px; color:#666; text-align:center; margin:5px 0 0;">动力定位船舶与控制系统</p>
 
-
-
-
-
-
+## 2.海空跨域无人集群
+### 无人系统集群博弈
+针对无人艇集群博弈，综合DoS攻击和追捕、围堵、驱离等具体任务，利用Nash均衡方法，对集群、博弈等策略展开了深入研究，取得了一定效果。
+<div style="margin:10px 0; padding:8px; background:#f8f9fa; border-radius:6px;">
+<img src="images/research2-1.png" alt="无人艇集群博弈策略1" style="width:49%; height:auto; border-radius:4px;">
+<img src="images/research2-2.png" alt="无人艇集群博弈策略2" style="width:49%; height:auto; border-radius:4px;">
+<p style="font-size:14px; color:#666; text-align:center; margin:5px 0 0;">无人艇集群博弈与对接队形变换策略</p>
 
 
 <div class='paper-box'>
