@@ -6,9 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "李政霖课题组"
-description              : "李政霖课题组 "
-repository               : "Aracano/zhenglinli.github.io"
+title                    : "谢文博课题组"
+description              : "谢文博课题组-上海大学机电工程与自动化学院/无人艇工程研究院 "
+repository               : "Xiewenbo77/Xiewenbo77.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,15 +21,15 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "李政霖"
-  avatar           : "images/android-chrome-512x512.png"
+  name             : "谢文博"
+  avatar           : "images/xiewenbo.png"
   bio              : "上海大学"
   location         : "Shanghai, China"
   employer         :
   pubmed           : 
   googlescholar    : 
-  email            : "zhenglin_li@shu.edu.cn"
-  researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
+  email            : "xiewenbo@shu.edu.cn"
+  researchgate     : "https://www.researchgate.net/profile/Wenbo-Xie-3"
   uri              :
   bitbucket        :
   codepen          :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "Xiewenbo77"
   google_plus      :
   keybase          :
   instagram        :
