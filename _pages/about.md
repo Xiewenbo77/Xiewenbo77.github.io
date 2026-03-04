@@ -13,7 +13,7 @@ redirect_from:
 {% assign gsDataBaseUrl = "https://raw.githubusercontent.com/" | append: site.repository | append: "/" %}
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
-</div>
+
 
 <span class='anchor' id='about-me'></span>
 
@@ -21,6 +21,7 @@ redirect_from:
 谢文博，上海大学机自学院研究员，博士/硕士生导师。
 
 从事无人系统自主规划、决策与控制，端到端自主航行，智能控制理论等方面的研究，担任团队无人系统研究领域主要负责人。主持军委科技委GF××项目、1××，国家自然科学基金面上/青年项目，黑龙江省优秀青年科学基金，中国博士后基金面上项目等多项纵向课题。已发表学术论文60余篇，包括SCI源期刊论文30余篇，其中第一/通讯作者SCI论文20余篇，ESI高被引论文2篇，入选IEEE Transactions on Fuzzy Systems期刊 “Most Popular Paper”论文1篇，并授权发明专利20余项。现担任IEEE Power & Energy Society智能电网与新技术委员会（中国）常务理事，中国指挥与控制学会智能控制与系统专委会委员、大模型与决策智能专业委员会委员，中国造船工程学会（水面无人装备专委会）高级会员，中国人工智能学会会员，IEEE Control Systems Society和IEEE Information Electronics Society会员, 《中国舰船研究》青年编委。
+
 
 <span class='anchor' id='research-field'></span>
 
@@ -30,6 +31,7 @@ redirect_from:
 3.	无人系统端到端自主航行：针对自动驾驶、无人艇、无人机等各类无人系统，搭建“感知-规划”/“感知-控制”端到端系统，开展智能生成、深度学习和强化学习相关算法研究；
 4.	海空跨域仿真系统：针对各类海空无人装备的具体应用场景，搭建用于无人系统训练和学习的仿真系统，从事强化学习、深度学习、虚实迁移等方面的研究；
 5.	智能控制理论：针对T-S/多项式模糊系统，海上廊桥自稳系统，卫星低重力地面模拟系统等各类复杂非线性系统的控制方法进行研究。
+
 
 <span class='anchor' id='publications'></span>
 
@@ -71,6 +73,7 @@ redirect_from:
 [17]	Hua Zheng, Wen-Bo Xie*, Hak-Keung Lam, Li-Kui Wang. Membership functions dependent stability analysis and local controller design for T-S fuzzy systems: a space enveloping approach. Information Sciences, 2020, 548: 233-253. （中科院TOP期刊）
 
 ☆更多论文列表：https://www.researchgate.net/profile/Wenbo-Xie-3
+
 
 <span class='anchor' id='achievements'></span>
 
@@ -157,6 +160,7 @@ redirect_from:
 
 <span class='anchor' id='projects'></span>
 
+
 # 📝 <font color="#4A708B">科研项目</font>
 
 ## 主持与在研项目
@@ -171,7 +175,7 @@ redirect_from:
 9.	黑龙江省级领军人才梯队后备带头人资助，黑龙江省人社厅，3万元，负责人，2021.01-2022.12
 10.	横向课题，某多艇位置XX模块，14.6万，负责人，2024.09-2024.10
 11.	横向课题，悬吊式随动卫星模拟控制系统-随动控制模块，25万元，负责人，2015.01-2017.12；
-</div>
+
 
 ## 参研项目
 1.	军委科技委“XXXX”项目子课题，XX航行环境理解与航行安全控制设计研究，505万元，排名第二，2024.06-2024.10
@@ -182,12 +186,14 @@ redirect_from:
 
 作为骨干成员参与了国家重大科技专项、工信部以及装备发展部等项目，项目涉及到国内首套DP3动力定位系统研制、无人艇相关运动控制、机器人协同控制、深水铺管起重船控制系统以及气垫船训练模拟器等内容，总经费达1.28亿元（其中“工信部高科技船舶科研项目—DP3动力定位系统研制”经费为1.18亿元 ）。
 
+
 <span class='anchor' id='international-coop'></span>
 
 # 📝 <font color="#4A708B">国际合作</font>
 与澳大利亚阿德莱德大学、英国国王学院、法国上法兰西大区理工学校、巴西米纳斯联邦大学等多个高校的知名学者保持紧密合作;
 
 澳大利亚阿德莱德大学博士后访学（2015-2016）。
+
 
 <span class='anchor' id='contact'></span>
 # 📝 <font color="#4A708B">联系方式</font>
