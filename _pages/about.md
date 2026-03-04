@@ -72,137 +72,44 @@ redirect_from:
 ### 无人拖船系统
 针对大型船舶进出港时的拖轮拖拽作业问题，综合考虑受限水域环境、系统参数不确定性、运动学约束以及障碍物规避等实际问题，围绕智能无人拖船的路径规划、运动控制以及推力分配策略等问题展开了深入研究，取得了良好效果。
 <div style="margin:10px 0; padding:8px; background:#f8f9fa; border-radius:6px;">
-<img src="images/research2-3.png" alt="无人艇集群博弈策略1" style="width:49%; height:auto; border-radius:4px;">
-<img src="images/research2-4.png" alt="无人艇集群博弈策略2" style="width:49%; height:auto; border-radius:4px;">
-<p style="font-size:14px; color:#666; text-align:center; margin:5px 0 0;">智能多无人拖船协同作业系统</p>
+<img src="images/research2-3.png" alt="智能多无人拖船1" style="width:49%; height:auto; border-radius:4px;">
+<img src="images/research2-4.png" alt="智能多无人拖船2" style="width:49%; height:auto; border-radius:4px;">
+<p style="font-size:14px; color:#666; text-align:center; margin:5px 0 0;">智能多无人拖船系统</p>
 </div>
 
-
-
-
-
-
-<div class='paper-box'>
-  <!-- 第一部分：视觉-毫米波雷达动态交互3D目标检测 -->
-  <div>
-    <p>视觉-毫米波雷达动态交互3D目标检测</p>
-    <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
-      <figure style="text-align: center; margin: 0 5px; width: 48%;">
-        <img src="images/img3.jpg" alt="图像3" style="width: 100%; height: auto; object-fit: contain;">
-      </figure>
-      <figure style="text-align: center; margin: 0 5px; width: 48%;">
-        <img src="images/img4.jpg" alt="图像4" style="width: 100%; height: auto; object-fit: contain;">
-      </figure>
-    </div>
-  </div>
-
-  <!-- 第二部分：视觉光流与毫米波雷达融合的关键目标速度解构 -->
-  <div>
-    <p>视觉光流与毫米波雷达融合的关键目标速度解构</p>
-    <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
-      <figure style="text-align: center; margin: 0 5px; width: 48%;">
-        <video controls style="width: 100%; height: auto; object-fit: contain;">
-          <source src="images/video2.mp4" type="video/mp4">
-        </video>
-      </figure>
-      <figure style="text-align: center; margin: 0 5px; width: 48%;">
-        <video controls style="width: 100%; height: auto; object-fit: contain;">
-          <source src="images/video3.mp4" type="video/mp4">
-        </video>
-      </figure>
-    </div>
-  </div>
+### 无人船“海上列车”
+针对多无人艇航行过程中进行组合编队问题，研究组建“海上列车”的协同运动控制过程，综合考虑运动学和动力学约束、多艇间水动力相互影响，海浪导致高频运动不利于对接等因素，解决多艇逼近和对接运动过程的规划与控制问题。
+<div style="margin:10px 0; padding:8px; background:#f8f9fa; border-radius:6px;">
+<img src="images/research2-3.png" alt="无人艇组建 “海上列车”1" style="width:49%; height:auto; border-radius:4px;">
+<img src="images/research2-4.png" alt="无人艇组建 “海上列车”2" style="width:49%; height:auto; border-radius:4px;">
+<p style="font-size:14px; color:#666; text-align:center; margin:5px 0 0;">无人艇组建 “海上列车”</p>
 </div>
 
+## 3.自主智能与智能控制
 
-### 端到端系统
+### 感知-规划-控制端到端方法
+针对感知-规划研究端到端设计方法，以保证无人系统能够在感知和决策层面获得全局最优解；同时对规划-控制研究端到端设计方法，保证规划层面能充分考虑无人平台动力学特性。
+<div style="margin:10px 0; padding:8px; background:#f8f9fa; border-radius:6px;">
+<img src="images/research2-5.png" alt="视觉感知-规划端到端在虚拟环境下的自主驾驶案例"style="width:100%; height:auto; border-radius:4px;">
 
-<div class='paper-box'>
-  <video controls width="100%">
-    <source src='images/output_2.mp4' type="video/mp4">
-  </video>
+<p style="font-size:14px; color:#666; text-align:center; margin:5px 0 0;">视觉感知-规划端到端在虚拟环境下的自主驾驶案例</p>
 </div>
 
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <img src='images/img11.jpg' alt="图像11" width="100%">
-    </div>
-  </div>
-<div class='paper-box-text' markdown="1">
-- 大模型赋能垂直领域任务  
-- 端到端信息交互优化集群协同  
-- 减少累积误差，实现精确控制  
-- 降低时间延迟，适应高动态水面场景  
-- 船舶水动力学消除摇荡影响  
-- 感知-规划端到端系统不确定性
-</div>
+### 模糊控制理论研究
+针对非线性系统的鲁棒等控制问题，基于T-S/多项式模糊系统，研究观测器-控制器结构的输出反馈设计问题，以及在稳定性分析中更有效引入隶属度函数信息并增强鲁棒性的方法，在国际上获得了一定的认可。
+<div style="margin:10px 0; padding:8px; background:#f8f9fa; border-radius:6px;">
+<img src="images/research3-2.png" alt="各类T-S/多项式模糊系统隶属度信息使用策略1" style="width:49%; height:auto; border-radius:4px;">
+<img src="images/research3-3.png" alt="各类T-S/多项式模糊系统隶属度信息使用策略2" style="width:49%; height:auto; border-radius:4px;">
+<p style="font-size:14px; color:#666; text-align:center; margin:5px 0 0;">各类T-S/多项式模糊系统隶属度信息使用策略</p>
 </div>
 
-
-## 2. **机器人训练数据生成与增强**：包括新视角图像合成、多模态数据生成、数据增强、风格迁移等；
-
-<div class='paper-box'>
-  <h3>3D目标检测的分割视角位置编码</h3>
-  <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
-    <figure style="text-align: center; margin: 0 5px; width: 48%;">
-      <img src="images/img5.jpg" alt="图像5" style="width: 100%; height: auto; object-fit: contain;">
-    </figure>
-    <figure style="text-align: center; margin: 0 5px; width: 48%;">
-      <img src="images/img6.jpg" alt="图像6" style="width: 100%; height: auto; object-fit: contain;">
-    </figure>
-  </div>
-  <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
-    <figure style="text-align:intrepreter: center; margin: 0 5px;">
-      <img src="images/img7.jpg" alt="图像7" width="100%">
-    </figure>
-    <figure style="text-align: center; margin: 0 5px;">
-      <img src="images/img8.jpg" alt="图像8" width="100%">
-    </figure>
-    <figure style="text-align: center; margin: 0 5px;">
-      <img src="images/img9.jpg" alt="图像9" width="100%">
-    </figure>
-  </div>
-  <p>将全局空间进行多层级分割，与虚拟视角空间对齐并进行位置编码，以低计算量实现全局注意力</p>
-  <p style="font-size: smaller; margin-top: 10px;">DVPE: divided view position embedding for multi-view 3D object detection，IJCAI 2024（CCF A）</p>
+### 海上廊桥
+针对恶劣海洋环境下，船舶之间以及船舶与海上工程平台之间的人员物资转运问题，综合考虑运动学和动力学约束，海浪的随机干扰以及廊桥表面的未知时变负载等因素，对基于混联等机构的海上廊桥控制问题进行了深入研究，取得了良好效果。
+<div style="margin:10px 0; padding:8px; background:#f8f9fa; border-radius:6px;">
+<img src="images/research3-4.png" alt="海上运转廊桥1" style="width:49%; height:auto; border-radius:4px;">
+<img src="images/research3-5.png" alt="海上运转廊桥2" style="width:49%; height:auto; border-radius:4px;">
+<p style="font-size:14px; color:#666; text-align:center; margin:5px 0 0;">海上运转廊桥</p>
 </div>
-
-## 3. **机器学习与计算机视觉**：包括信息融合、深度学习的不确定性量化与分析、大模型微调、增量学习/终身学习等。
-### 环境感知不确定性建模
-
-<div class='paper-box'>
-  <div class='paper-box-image'>
-    <div>
-      <img src='images/img11.jpg' alt="图像11" width="100%">
-    </div>
-  </div>
-<div class='paper-box-text' markdown="1">
-MonoAux: Fully Exploiting Auxiliary Information and Uncertainty for Monocular 3D Object Detection, Cyborg and Bionic System（IF 10.5), 2024
-- 不确定性不可避免，不应忽视
-- 量化不确定性对自动驾驶安全至关重要
-- 考虑不确定性能有效提升感知精度
-- 为预测、规划提供重要参考信息
-</div>
-</div>
-
-<div class='paper-box'>
-    <div style="display: flex; justify-content: space-between; margin-bottom: 10px;">
-      <figure style="text-align: center; margin: 0 5px; width: 48%;">
-        <img src="images/img10.jpg" alt="图像10" style="width: 100%; height: auto; object-fit: contain;">
-        <figcaption>环境感知结果不确定性量化</figcaption>
-      </figure>
-      <figure style="text-align: center; margin: 0 5px; width: 48%;">
-        <img src="images/img12.jpg" alt="图像12" style="width: 100%; height: auto; object-fit: contain;">
-        <figcaption>引入不确定性有效改善小目标与部分遮挡目标的检测精度</figcaption>
-      </figure>
-    </div>
-</div>
-
-
-
-
-<span class='anchor' id='publication'></span>
-
 
 # 📝 <font color="#4A708B">代表性成果</font>
 
