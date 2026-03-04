@@ -40,9 +40,10 @@ redirect_from:
 <img src="images/research1-1.png" alt="欠驱动无人艇定点控位" style="width:49%; height:auto; border-radius:4px;">
 <img src="images/research1-2.png" alt="动力定位控制系统" style="width:49%; height:auto; border-radius:4px;">
 </div>
-<p style="font-size:14px; color:#666; margin:0;">左：欠驱动无人艇最优艏向定点控位海试结果；右：复杂海况下船舶动力定位控制系统架构</p>
+<p style="font-size:14px; color:#666; text-align:center; margin:5px 0 0;">欠驱动无人艇最优艏向控制策略海试航迹对比</p>
 </div>
 
+### 还恐吓跨域无人集群智能
 
 ### 视觉-毫米波雷达融合感知
 
