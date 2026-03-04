@@ -46,12 +46,24 @@ redirect_from:
 ### 无人气垫船
 针对无人气垫船的垫升系统和智能自主航行控制系统进行探究，并结合旋翼无人机的构型，搭建了旋翼机-气垫船一体化无人系统，为海空跨域无人集群的发展增加了重要的一类设备。
 <div style="margin:10px 0; padding:8px; background:#f8f9fa; border-radius:6px;">
-<img src="images/research1-3.png" alt="旋翼机-气垫船无人系统1" style="width:100%; height:auto; border-radius:4px;">
-<img src="images/research1-4.jpg" alt="旋翼机-气垫船无人系统2" style="width:100%; height:auto; border-radius:4px;">
+<img src="images/research1-3.png" alt="旋翼机-气垫船无人系统1" style="width:49%; height:auto; border-radius:4px;">
+<img src="images/research1-4.png" alt="旋翼机-气垫船无人系统2" style="width:49%; height:auto; border-radius:4px;">
 <p style="font-size:14px; color:#666; text-align:center; margin:5px 0 0;">旋翼机-气垫船无人系统</p>
 </div>
 
-### 视觉-毫米波雷达融合感知
+### 动力定位控制系统
+针对复杂海况下的船舶动力定位作业任务，考虑推进器推力受限和各类故障，研究船舶低频运动状态观测、高精度定位、循迹跟踪作业、喷泵无人艇自主靠离泊等功能，在进行实船实验过程中，与Kongsberg公司产品进行传感器完全失效时的短时（5分钟）定位控制实验，漂移距离明显降低，控制精度得到大幅提高。
+<div style="margin:10px 0; padding:8px; background:#f8f9fa; border-radius:6px;">
+<img src="images/research1-5.png" alt="动力定位船舶与控制系统1" style="width:100%; height:auto; border-radius:4px;">
+<img src="images/research1-6.png" alt="动力定位船舶与控制系统2" style="width:100%; height:auto; border-radius:4px;">
+<p style="font-size:14px; color:#666; text-align:center; margin:5px 0 0;">动力定位船舶与控制系统</p>
+
+
+
+
+
+
+
 
 <div class='paper-box'>
   <!-- 第一部分：视觉-毫米波雷达动态交互3D目标检测 -->
