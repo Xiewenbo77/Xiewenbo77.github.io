@@ -160,8 +160,8 @@ redirect_from:
 
 
 
-<span class='anchor' id='projects'></span>
 
+<span class='anchor' id='projects'></span>
 
 # 📝 <font color="#4A708B">科研项目</font>
 
@@ -198,6 +198,7 @@ redirect_from:
 
 
 <span class='anchor' id='contact'></span>
+
 # 📝 <font color="#4A708B">联系方式</font>
 
 - **邮箱**：[xiewenbo@shu.edu.cn](mailto:xiewenbo@shu.edu.cn)
