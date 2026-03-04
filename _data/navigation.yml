@@ -15,5 +15,8 @@ main:
   - title: "科研项目"
     url: "/#projects"
     
-  - title: "科研项目"
+  - title: "国际合作"
     url: "/#international-coop"
+
+  - title: "联系方式"
+     url: "/#connections"
