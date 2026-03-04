@@ -1,16 +1,16 @@
 # main links links
 main:
   - title: "个人简介"
-    url: /Xiewenbo77.github.io/#about-me
+    url:/#about-me
 
   - title: "研究领域"
-    url: /Xiewenbo77.github.io/#research-field
+    url:/#research-field
 
   - title: "代表性论文"
-    url: /Xiewenbo77.github.io/#publications
+    url:/#publications
 
   - title: "成果展示"
-    url: /Xiewenbo77.github.io/#achievements
+    url:/#achievements
 
   - title: "科研项目"
-    url: /Xiewenbo77.github.io/#projects
+    url:/#projects
