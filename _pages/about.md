@@ -159,7 +159,7 @@ redirect_from:
 
 <span class='anchor' id='projects'></span>
 
-#  <font color="#4A708B">科研项目</font>
+# <font color="#4A708B">科研项目</font>
 
 ## 主持与在研项目
 1.	军委科技委“XXXXXX”项目子课题，水面环境信息与航行模型构建技术研究，负责人，1287万元，2024.11-2025.09
@@ -187,7 +187,7 @@ redirect_from:
 
 <span class='anchor' id='international-coop'></span>
 
-#  <font color="#4A708B">国际合作</font>
+# <font color="#4A708B">国际合作</font>
 与澳大利亚阿德莱德大学、英国国王学院、法国上法兰西大区理工学校、巴西米纳斯联邦大学等多个高校的知名学者保持紧密合作;
 
 澳大利亚阿德莱德大学博士后访学（2015-2016）。
@@ -195,7 +195,7 @@ redirect_from:
 
 <span class='anchor' id='contact'></span>
 
-# 📝 <font color="#4A708B">联系方式</font>
+# <font color="#4A708B">联系方式</font>
 
 - **邮箱**：[xiewenbo@shu.edu.cn](mailto:xiewenbo@shu.edu.cn)
 - **地址**：上海市，上海大学机电工程与自动化学院/无人艇工程研究院
