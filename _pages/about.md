@@ -21,7 +21,7 @@ redirect_from:
 
 从事无人系统自主规划、决策与控制，端到端自主航行，智能控制理论等方面的研究，担任团队无人系统研究领域主要负责人。主持军委科技委GF××项目、1××，国家自然科学基金面上/青年项目，黑龙江省优秀青年科学基金，中国博士后基金面上项目等多项纵向课题。已发表学术论文60余篇，包括SCI源期刊论文30余篇，其中第一/通讯作者SCI论文20余篇，ESI高被引论文2篇，入选IEEE Transactions on Fuzzy Systems期刊 “Most Popular Paper”论文1篇，并授权发明专利20余项。现担任IEEE Power & Energy Society智能电网与新技术委员会（中国）常务理事，中国指挥与控制学会智能控制与系统专委会委员、大模型与决策智能专业委员会委员，中国造船工程学会（水面无人装备专委会）高级会员，中国人工智能学会会员，IEEE Control Systems Society和IEEE Information Electronics Society会员, 《中国舰船研究》青年编委。
 
-</div>
+
 <span class='anchor' id='research-field'></span>
 
 #  <font color="#4A708B">主要研究领域</font>
