@@ -32,7 +32,7 @@ redirect_from:
 
 # 📝 <font color="#4A708B">代表性论文</font>
 在国内外学术期刊发表论文60余篇，包括SCI源期刊论文30余篇，ESI高被引论文2篇，授权国家发明专利20余项。近五年代表性成果有：
-## 代表性论文
+
 [1]	Wen-Bo Xie*, Yong-Qi Wu, Shi-Qi Zheng, Yu-Long Wang. Asynchronous membership functions decoupling based event-triggered fuzzy networked control for nonlinear systems. Fuzzy Sets and Systems, 2025, DOI: 10.1016/j.fss.2025. 109377.
 
 [2]	Guan-Qun Chen, Wen-Bo Xie*, Dong Qu, Yan Peng. Prescribed performance observer-controller design for MIMO nonlinear systems with unknown control directions. ISA Transactions, 2025.
@@ -165,6 +165,7 @@ redirect_from:
 9.	黑龙江省级领军人才梯队后备带头人资助，黑龙江省人社厅，3万元，负责人，2021.01-2022.12
 10.	横向课题，某多艇位置XX模块，14.6万，负责人，2024.09-2024.10
 11.	横向课题，悬吊式随动卫星模拟控制系统-随动控制模块，25万元，负责人，2015.01-2017.12；
+</div>
 
 ## 参研项目
 1.	军委科技委“XXXX”项目子课题，XX航行环境理解与航行安全控制设计研究，505万元，排名第二，2024.06-2024.10
@@ -174,13 +175,15 @@ redirect_from:
 5.	装备发展部装备预先研究共有技术项目，典型复杂XXXXXXXX控制技术，400万元，排名第四，2022.10-2025.10
 
 作为骨干成员参与了国家重大科技专项、工信部以及装备发展部等项目，项目涉及到国内首套DP3动力定位系统研制、无人艇相关运动控制、机器人协同控制、深水铺管起重船控制系统以及气垫船训练模拟器等内容，总经费达1.28亿元（其中“工信部高科技船舶科研项目—DP3动力定位系统研制”经费为1.18亿元 ）。
+</div>
 
 # 📝 <font color="#4A708B">国际合作</font>
 >与澳大利亚阿德莱德大学、英国国王学院、法国上法兰西大区理工学校、巴西米纳斯联邦大学等多个高校的知名学者保持紧密合作;
 >澳大利亚阿德莱德大学博士后访学（2015-2016）。
 
+</div>
 
 # 📝 <font color="#4A708B">联系方式</font>
 
-- **邮箱**：[zhenglin_li@shu.edu.cn](mailto:zhenglin_li@shu.edu.cn)
-- **地址**：上海市，上海大学未来技术学院/人工智能研究院
+- **邮箱**：[xiewenbo@shu.edu.cn](mailto:xiewenbo@shu.edu.cn)
+- **地址**：上海市，上海大学机电工程与自动化学院/无人艇工程研究院
