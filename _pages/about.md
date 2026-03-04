@@ -57,14 +57,29 @@ redirect_from:
 <img src="images/research1-5.png" alt="动力定位船舶与控制系统1" style="width:49%; height:auto; border-radius:4px;">
 <img src="images/research1-6.png" alt="动力定位船舶与控制系统2" style="width:49%; height:auto; border-radius:4px;">
 <p style="font-size:14px; color:#666; text-align:center; margin:5px 0 0;">动力定位船舶与控制系统</p>
+</div>
 
 ## 2.海空跨域无人集群
+
 ### 无人系统集群博弈
 针对无人艇集群博弈，综合DoS攻击和追捕、围堵、驱离等具体任务，利用Nash均衡方法，对集群、博弈等策略展开了深入研究，取得了一定效果。
 <div style="margin:10px 0; padding:8px; background:#f8f9fa; border-radius:6px;">
 <img src="images/research2-1.png" alt="无人艇集群博弈策略1" style="width:49%; height:auto; border-radius:4px;">
 <img src="images/research2-2.png" alt="无人艇集群博弈策略2" style="width:49%; height:auto; border-radius:4px;">
 <p style="font-size:14px; color:#666; text-align:center; margin:5px 0 0;">无人艇集群博弈与对接队形变换策略</p>
+</div>
+
+### 无人拖船系统
+针对大型船舶进出港时的拖轮拖拽作业问题，综合考虑受限水域环境、系统参数不确定性、运动学约束以及障碍物规避等实际问题，围绕智能无人拖船的路径规划、运动控制以及推力分配策略等问题展开了深入研究，取得了良好效果。
+<div style="margin:10px 0; padding:8px; background:#f8f9fa; border-radius:6px;">
+<img src="images/research2-3.png" alt="无人艇集群博弈策略1" style="width:49%; height:auto; border-radius:4px;">
+<img src="images/research2-4.png" alt="无人艇集群博弈策略2" style="width:49%; height:auto; border-radius:4px;">
+<p style="font-size:14px; color:#666; text-align:center; margin:5px 0 0;">智能多无人拖船协同作业系统</p>
+</div>
+
+
+
+
 
 
 <div class='paper-box'>
