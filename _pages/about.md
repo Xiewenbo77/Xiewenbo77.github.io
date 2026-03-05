@@ -212,5 +212,6 @@ redirect_from:
 <span class='anchor' id='connections'></span>
 #  <font color="#4A708B">联系方式</font>
 
+- **电话**：13836194085（微信同号）
 - **邮箱**：[xiewenbo@shu.edu.cn](mailto:xiewenbo@shu.edu.cn)
 - **地址**：上海市，上海大学机电工程与自动化学院/无人艇工程研究院
